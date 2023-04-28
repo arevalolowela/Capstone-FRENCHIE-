@@ -2,16 +2,9 @@
 **Admin Login Details**
 
 Email	: admin@mail.com
-Password: 123456
+Password: adminsarah2023
 
 **Cashier Login Details**
 
-Email	: cashier@mail.com
-Password: 123456
-
-
-**Customer Login Details**
-
-Email	: customer@mail.com
-Password: 123456
-s
+Email	: dianne@mail.com
+Password: dianne2023
